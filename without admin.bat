@@ -1,0 +1,2 @@
+set __COMPAT_LAYER=RunAsInvoker
+start Digiexam_Managed_Win
