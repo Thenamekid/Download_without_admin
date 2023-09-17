@@ -1,2 +1,2 @@
 set __COMPAT_LAYER=RunAsInvoker
-start Digiexam_Managed_Win
+start INSERT_NAME_HERE
